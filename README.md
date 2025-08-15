@@ -23,11 +23,9 @@ A repository for developing scripts and working on classifiers for assembling OS
 │   │   │   └── oshwa_raw.csv
 │   │   └── scientific_literature
 │   │       ├── hardwareX
-│   │       │   ├── ohx_allPubs_extract.json
-│   │       │   └── place
+│   │       │   └── ohx_allPubs_extract.json
 │   │       ├── joh
-│   │       │   ├── Journal of Open Hardware Papers.csv
-│   │       │   └── place
+│   │       │   └── Journal of Open Hardware Papers.csv
 │   │       ├── openalex_metadata.csv
 │   │       └── openalex_metadata.json
 │   └── Repo_Data
