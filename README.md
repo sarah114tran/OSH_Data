@@ -1,7 +1,7 @@
-# 1. Description
+### 1. Description
 A repository for developing scripts and working on classifiers for assembling OSH datasets
 
-# 2. Repository Structure
+### 2. Repository Structure
 ```
 ├── Data
 │   ├── Clean
